@@ -18,10 +18,10 @@ Outside of the core engineering track, I explore how intelligent systems interse
 
 ## What I'm Working On
 
-- 🧠 **AI & NLP Applications** — Researching and prototyping systems that process, understand, and generate language in meaningful ways. From information extraction to intelligent assistants, I'm interested in the full stack of making language models useful.
-- 📈 **Finance + Tech** — Exploring how ML and NLP techniques can surface signal in financial data — earnings calls, market sentiment, SEC filings, and beyond.
-- 🏟️ **Sports Analytics** — Building at the intersection of performance data and machine intelligence. Sports generate enormous amounts of structured and unstructured data; I love finding what's hidden in it.
-- 🛠️ **Turning Ideas Into Products** — I'm not just interested in what's technically possible. I want to build things that are thoughtfully designed, easy to use, and actually deployed.
+-  **AI & NLP Applications** — Researching and prototyping systems that process, understand, and generate language in meaningful ways. From information extraction to intelligent assistants, I'm interested in the full stack of making language models useful.
+-  **Finance + Tech** — Exploring how ML and NLP techniques can surface signal in financial data — market sentiment, stock behaviour prediction, and beyond.
+
+I want to build things that are thoughtfully designed, easy to use, and actually deployed.
 
 ---
 
@@ -37,16 +37,13 @@ Outside of the core engineering track, I explore how intelligent systems interse
 `MongoDB` `React` `Node.js` `Firebase` `MySQL`
 
 **Infra & Tools**
-`Git` `Docker` `Linux` `AWS`
+`Git` `Github`
 
 ---
 
 ## Currently Learning
 
-- Advanced fine-tuning and alignment techniques for LLMs
-- RAG architectures and production-scale retrieval systems
-- Quantitative methods in financial modeling
-- The craft of clear technical writing
-
+- Fine-tuning and alignment techniques for BERT models
+- Qualitative methods in financial modeling
 
 </div>
