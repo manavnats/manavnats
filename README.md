@@ -28,7 +28,7 @@ I want to build things that are thoughtfully designed, easy to use, and actually
 ## Skills & Tools
 
 **Languages**
-`Python` `C` `JavaScript` `SQL`
+`Python` `C` `JavaScript` `Java` `SQL`
 
 **AI / ML**
 `PyTorch` `Hugging Face Transformers` `scikit-learn` `BERT` 
