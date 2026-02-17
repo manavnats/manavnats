@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm a Computer Engineering student at Waseda University with a focus on **artificial intelligence and natural language processing** as tools for building meaningful things.
+I'm a Computer Engineering student with a focus on **artificial intelligence and natural language processing** as tools for building meaningful things.
 
 Outside of the core engineering track, I explore how intelligent systems intersect with fields like **finance and sports**, two domains where data is rich, and the right insight at the right moment is everything.
 
